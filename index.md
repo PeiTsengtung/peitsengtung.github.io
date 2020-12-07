@@ -5,6 +5,6 @@ Benveni a le personale prime page de Pei Tseng-tung!
 
 ------
 
-### 1. [Laboratorio](https://peitsengtung.github.io/Laboratorio/)
+### ① [Laboratorio](https://peitsengtung.github.io/Laboratorio/)
 
-### 2. [Neolatino](https://peitsengtung.github.io/Neolatino/)
+### ② [Neolatino](https://peitsengtung.github.io/Neolatino/)
