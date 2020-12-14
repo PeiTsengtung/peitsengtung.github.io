@@ -7,6 +7,6 @@ Benveni a le Prime Page de Pei Tseng-tung!
 
 ### ① [Laboratorio](https://peitsengtung.github.io/Laboratorio/)
 
-### ② [Neolatino](https://peitsengtung.github.io/Neolatino/)
+### ② [Neo Latino](https://peitsengtung.github.io/NeoLatino/)
 
 ### ③ [吳語甬江方言詞典](https://peitsengtung.github.io/Ionkaon/)（建設中）
